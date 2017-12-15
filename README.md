@@ -1,0 +1,1 @@
+This is a basic React.js application build to find the character count of the content of the textarea
